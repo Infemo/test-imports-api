@@ -1,0 +1,27 @@
+{
+  "name": "test-imports-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infemo/test-imports-api.git"
+  },
+  "keywords": [
+    "test-imports-api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Infemo/test-imports-api/issues"
+  },
+  "homepage": "https://github.com/Infemo/test-imports-api#readme",
+  "dependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
